@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "squilter",
+    "longName": "DroidPlanner",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebble_icon.png",
+                "menuIcon": true,
+                "name": "icon",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "DroidPlanner",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "79a2893d-fc7d-48c4-bc9a-34854d94ef6e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
