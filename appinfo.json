@@ -4,13 +4,12 @@
         ""
     ],
     "companyName": "squilter",
-    "longName": "DroidPlanner",
+    "longName": "DroidPlanner2",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/pebble_icon.png",
-                "menuIcon": true,
+                "file": "images/dp28.png",
                 "name": "icon",
                 "targetPlatforms": null,
                 "type": "png"
@@ -18,14 +17,14 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "DroidPlanner",
+    "shortName": "DroidPlanner2",
     "targetPlatforms": [
         "aplite",
         "basalt",
         "chalk"
     ],
     "uuid": "79a2893d-fc7d-48c4-bc9a-34854d94ef6e",
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": false
     }
